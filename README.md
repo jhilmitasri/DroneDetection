@@ -29,7 +29,7 @@ The project uses a custom [drone detection dataset](https://universe.roboflow.co
 
 A [YOLOv8](https://docs.ultralytics.com/) model is employed for drone detection. You can refer to this Roboflow [blog post](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/) for training the model on a custom dataset.
 
-Alternatively, the `drone-detection.ipynb` script was executed on Kaggle, utilizing 2 x GPU T4's capabilities. Although initially planned for 25 epochs, satisfactory results were achieved in just 20 epochs. The results are included in the repository.
+Alternatively, the `drone-detection-ipynb.ipynb` script was executed on Kaggle, utilizing 2 x GPU T4's capabilities. Although initially planned for 25 epochs, satisfactory results were achieved in just 20 epochs. The results are included in the repository.
 
 ## Tracking
 
